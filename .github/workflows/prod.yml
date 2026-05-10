@@ -27,4 +27,4 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: aditi/todo:${{ github.sha }}
+        tags: aditinarkar947/todo:${{ github.sha }}
