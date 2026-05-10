@@ -26,4 +26,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: aditinarkar947/todo:${{ github.sha }}
+          tags: adunarkar947/todo:${{ github.sha }}
