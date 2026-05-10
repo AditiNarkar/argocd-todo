@@ -2,7 +2,7 @@ name: Continuous Deployment (Production)
 
 on:
   push:
-    branches: ["main"]
+    branches: [ "main" ]
 
 jobs:
   build-and-deploy:
